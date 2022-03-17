@@ -8,7 +8,7 @@ https://docs.google.com/spreadsheets/d/16zKEd5tsRBuyvxGLJorXyBHQqPkePwOWuDGQbFJh
 
 Make a copy of it and paste the script in. 
 
-![Google Sheet to Form](https://trello-attachments.s3.amazonaws.com/58921f2cf40797b08bf618cd/58921f32c4996003c8eac297/61c8a4c17d4f05733cd77502951b5658/upload_2_1_2017_at_11_47_42_AM.png)
+![image](https://user-images.githubusercontent.com/7369575/158726410-d374bf25-7360-46e1-a7de-caf6c9412f3c.png)
 
 
 Contributions welcome.
